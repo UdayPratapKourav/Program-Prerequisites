@@ -9,7 +9,7 @@ class perimeterOfRectangle{
    
    
    
-   double perimeter=2*(length*width);
+   double perimeter=2*(length+width);
    System.out.println("perimeter is : " + perimeter);
    
    }
